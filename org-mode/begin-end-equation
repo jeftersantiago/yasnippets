@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: equation 
+# key:  eq 
+# --
+#+name:eq:$1
+#+begin_latex
+\begin{equation}
+    \boxed{ $2 }
+\end{equation}
+#+end_latex
+$0
