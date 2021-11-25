@@ -2,8 +2,8 @@
 # name: equation 
 # key:  eq 
 # --
-
 \begin{equation}
-    \boxed{ $0 }
-    \label{eq:${1:label}}
+    \boxed{ $1 }
+    \label{ $2 }
 \end{equation}
+$0

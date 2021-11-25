@@ -1,6 +1,5 @@
 # -*- mode: snippet -*-
 # name: derivative 
-# key:  dx
+# key:  df
 # --
-
 \frac{d ${1} }{d ${2}}

@@ -1,7 +1,9 @@
 # -*- mode: snippet -*-
 # name: table 
-# key:  tt 
+# key:  table
 # --
 
-#+attr_latex: :align |c|${1:centering}
-| $0             
+#+caption: $1
+#+name: $2
+#+attr_latex: :align $3 
+$0

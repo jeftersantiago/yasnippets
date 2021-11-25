@@ -1,5 +1,8 @@
 # -*- mode: snippet -*-
-# name: big-equation 
+# name: big-boxed-equation 
 # key: $b
 # --
-$$ \boxed{ $0 }$$
+#+begin_latex
+$$\boxed{ $1 }$$
+#+end_latex
+$0

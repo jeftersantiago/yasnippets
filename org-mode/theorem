@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # name: theorem 
-# key:  th 
+# key:  theorem
 # --
 #+latex: \begin{shaded}
 #+latex: \begin{theorem}[${name}]
