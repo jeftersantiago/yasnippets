@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: phi 
+# key:  ;f
+# --
+\varphi $0
