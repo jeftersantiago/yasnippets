@@ -1,0 +1,21 @@
+#+TITLE: My emacs snippets
+
+
+* TeX snippets
+** Symbols
+   - =;d= : \Delta
+** Structures   
+* Org-mode snippets
+  
+
+
+  
+
+
+
+
+
+
+
+
+

@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # name: equation 
-# key:  eq 
+# key:  eq
 # --
 \begin{equation}
     \boxed{ $1 }

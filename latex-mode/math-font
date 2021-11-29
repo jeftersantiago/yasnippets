@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: table 
-# key:  mf 
+# name: math-font 
+# key:  ;
 # --
-\mathbb{${1}}$0
+\mathbb{R}$0
