@@ -1,9 +1,19 @@
 #+TITLE: My emacs snippets
-
-
 * TeX snippets
 ** Symbols
    - =;d= : \Delta
+   - =;;d=: \delta
+   - =;F= : \phi
+   - =;a= : \alpha
+   - =;l= : \lambda
+   - =;g= : \gamma 
+   - =inf=: \infty 
+   - =;m= : \mu
+   - =pt= : \partial
+   - =;r= : \rho
+   - =;t= : \theta
+   - =;n= : \nabla 
+   - =~\==: \approx 
 ** Structures   
 * Org-mode snippets
   
