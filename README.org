@@ -13,7 +13,7 @@
    - =;r= : \rho
    - =;t= : \theta
    - =;n= : \nabla 
-   - =~\==: \approx 
+   - =~==: \approx 
 ** Structures   
 * Org-mode snippets
   
