@@ -2,4 +2,4 @@
 # name: lim
 # key:  lim
 # --
-\lim_{$1 \to $2}{\frac{$3}{$4}} $0
+\lim_{$1 \to $2}{$3} $0
