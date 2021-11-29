@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
 # name: math-font 
-# key:  ;
+# key:  ;R
 # --
 \mathbb{R}$0

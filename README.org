@@ -22,30 +22,71 @@
    - =sset= : \subset 
    - =AA= : \forall
    - =EE= : \exists
+   - =+-= : \pm
+   - =!== : \neq
+   - =--->= : \Rightarrow
+   - =cos= : \cos
+   - =acos= : \arccos
+   - =sin= : \sin
+   - =sen= : \sin
+   - =asin= : \arcsin
+   - =asen= : \arcsen
+   - =>== : \geq
+   - =<== : \leq 
+   - =<<= : \ll
+   - =>>= : \gg
+   - =<-= : \leftarrow
+   - =->= : \rightarrow
+   - =<--= : \Longleftarrow 
+   - =-->= : \Longrightarrow
+   - =<>= : \left \langle =cursor= \right \rangle
+   - =<->= : \leftrightarrow
+   - =[]= : \left[ =cursor= \right]
 ** Structures   
    - =^= : ^{=cursor=}
    - =exp= : e^{=cursor=}
    - =df= : \frac{d =cursor=}{d =cursor=}
    - =pd= : \frac{\partial =cursor=}{\partial =cursor=} 
    - =pintegral= : \oint{=cursor=}
-   - =dintegral= : \int_{=lower=}^{=upper=}{=cursor=}
+   - =dintegral=
+     #+begin_src latex
+       \int_{=lower=}^{=upper=}{=cursor=}
+     #+end_src
    - =lim= : lim_{=from= \to =to=}{=cursor=}
    - =;v= : \vec{=cursor=}
    - =begin= : \begin{=name=} =cursor= \end{=name=}
-   - =eq=
+   - =eq= :
      #+begin_src latex
-       \begin{equation}
-           \boxed{=cursor=}
-           \label{=cursor=}
-       \end{equation}
+          \begin{equation}
+               \boxed{=cursor=}
+               \label{=cursor=}
+           \end{equation}
      #+end_src 
-
-
-
+   - =$b= :
+     #+begin_src latex
+        $$\boxed{ =cursor= }$$
+     #+end_src latex
+   - =$$= : $$ =cursor= $$
+   - =$= : $=cursor=$
+   - =ct= : \cite{=cursor=}
+   - =deg= : ^{\circ}
+   - =//= : \frac{=val 1=}{=val 2=}
+   - =()= : \left( =cursor= \right)
+   - =;R= : \mathbb{R}
+   - =matrix= :
+     #+begin_src latex
+     \begin{pmatrix} =cursor= \end{pmatrix}
+     #+end_src latex
 * Org-mode snippets
-  
-
-
+  - =cp= : #+caption:
+  - =img= :
+   : #+attr_latex: :width ${1}cm :height ${2}cm
+   : [[=cursor=]]   
+  - =sd= : begin / end =shaded block=
+  - =table= : table tablet with latex attributes
+  - =theorem= : theorem with shaded block
+  - =wrap= : template for wrapped image
+  - =tex= : latex block
   
 
 
