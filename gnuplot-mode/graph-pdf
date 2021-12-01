@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: graph-pdf 
+# key:  ;tex
+# --
+set terminal epslatex standalone size ${12}cm,${8}cm
+set output $1 
+

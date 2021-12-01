@@ -1,4 +1,6 @@
 #+TITLE: My emacs snippets
+* TODO
+  - [ ] snippets for gnuplot
 * TeX snippets
 ** Symbols
    - =;d= : \Delta
@@ -30,7 +32,7 @@
    - =sin= : \sin
    - =sen= : \sin
    - =asin= : \arcsin
-   - =asen= : \arcsen
+   - =asen= : \arcsin
    - =>== : \geq
    - =<== : \leq 
    - =<<= : \ll
