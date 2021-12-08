@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
 # name: Delta 
-# key:;d
+# key: $
 # --
-\Delta $0
+$

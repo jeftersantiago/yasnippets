@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: small-equation 
+# name: inline-equation 
 # key: $ 
 # --
-$$0$
+\\( $0 \\)

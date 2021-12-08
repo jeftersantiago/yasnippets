@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
 # name: left-arrow 
-# key: <-- 
+# key: <--
 # --
-\Longleftarrow $0
+\leftarrow $0

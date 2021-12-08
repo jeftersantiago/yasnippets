@@ -9,7 +9,7 @@
    - =;f= : \varphi 
    - =;a= : \alpha
    - =;l= : \lambda
-   - =;g= : \gamma 
+   - =;g= : \upgamma
    - =inf=: \infty 
    - =;m= : \mu
    - =pt= : \partial

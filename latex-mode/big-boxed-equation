@@ -3,6 +3,8 @@
 # key: $b
 # --
 #+begin_latex
-$$\boxed{ $1 }$$
+\\[
+\boxed{ $1 }
+\\]
 #+end_latex
 $0
